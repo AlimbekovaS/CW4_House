@@ -1,0 +1,8 @@
+Abaya 15 1 5 3 64
+Timiriazeva 30 2 2 3 65
+Saina 155 3 1 4 155
+
+
+
+Abaya 15 4 2 1 60
+Abaya 15 5 4 2 84
